@@ -17,7 +17,10 @@
   "bugs": {
     "url": "https://github.com/wmfs/tymly-sharepoint-plugin/issues"
   },
-  "dependencies": {},
+  "dependencies": {
+    "axios": "0.18.0",
+    "node-sp-auth": "2.5.6"
+  },
   "devDependencies": {
     "@semantic-release/changelog": "3.0.1",
     "@semantic-release/git": "7.0.5",
@@ -29,8 +32,7 @@
     "nyc": "13.1.0",
     "semantic-release": "15.10.5",
     "standard": "12.0.1",
-    "@wmfs/tymly": "1.58.0",
-    "node-sp-auth": "2.5.6"
+    "@wmfs/tymly": "1.58.0"
   },
   "scripts": {
     "lint": "standard",
