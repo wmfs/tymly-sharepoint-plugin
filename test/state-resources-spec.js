@@ -45,22 +45,26 @@ describe('Sharepoint State Resources tests', function () {
 
   it('ensure folder state machine', async () => {
     const execDesc = await statebox.startExecution(
-      {},
+      {
+        uprn: '1234'
+      },
       ENSURE_FOLDER_STATE_MACHINE,
       { sendResponse: 'COMPLETE', userId: 'test-user' }
     )
 
-    console.log('>>>', execDesc)
+    expect(execDesc.status).to.eql('SUCCEEDED')
   })
 
   it('get contents state machine', async () => {
     const execDesc = await statebox.startExecution(
-      {},
+      {
+        uprn: '1234'
+      },
       GET_CONTENTS_STATE_MACHINE,
       { sendResponse: 'COMPLETE', userId: 'test-user' }
     )
 
-    console.log('>>>', execDesc)
+    expect(execDesc.status).to.eql('SUCCEEDED')
   })
 
   it('should shut down Tymly', async () => {
