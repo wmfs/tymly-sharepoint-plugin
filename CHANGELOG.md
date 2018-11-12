@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.0.0...v1.1.0) (2018-11-12)
+
+
+### ✨ Features
+
+* get form digest value function ([b26765e](https://github.com/wmfs/tymly-sharepoint-plugin/commit/b26765e))
+
+
+### 📦 Code Refactoring
+
+* set up state resources and tests ([c78d3ad](https://github.com/wmfs/tymly-sharepoint-plugin/commit/c78d3ad))
+
 # 1.0.0 (2018-11-12)
 
 
