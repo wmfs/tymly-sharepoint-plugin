@@ -7,6 +7,18 @@ const path = require('path')
 describe('Sharepoint tests', function () {
   this.timeout(process.env.TIMEOUT || 5000)
 
+  before(function () {
+    if (!(
+      process.env.SHAREPOINT_URL &&
+      process.env.SHAREPOINT_USERNAME &&
+      process.env.SHAREPOINT_PASSWORD &&
+      process.env.SHAREPOINT_DIR_PATH
+    )) {
+      console.log('Missing environment variables, skipping tests.')
+      this.skip()
+    }
+  })
+
   let tymlyService, sharepointService
 
   it('should boot tymly', done => {
@@ -23,6 +35,10 @@ describe('Sharepoint tests', function () {
         done()
       }
     )
+  })
+
+  it('should expect a cookie on the service', () => {
+    expect(sharepointService.getCookie()).to.not.eql(null)
   })
 
   it('should shut down Tymly', async () => {
