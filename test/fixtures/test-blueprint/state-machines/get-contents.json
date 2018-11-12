@@ -1,0 +1,20 @@
+{
+  "Comment": "Get contents.",
+  "version": "1.0",
+  "StartAt": "GetContents",
+  "States": {
+    "GetContents": {
+      "Type": "Task",
+      "Resource": "module:getCloudStorageContents",
+      "End": true
+    }
+  },
+  "restrictions": [
+    {
+      "roleId": "$authenticated",
+      "allows": [
+        "*"
+      ]
+    }
+  ]
+}

@@ -4,7 +4,10 @@ const tymly = require('@wmfs/tymly')
 const expect = require('chai').expect
 const path = require('path')
 
-describe('Sharepoint tests', function () {
+const ENSURE_FOLDER_STATE_MACHINE = 'test_ensureFolder_1_0'
+const GET_CONTENTS_STATE_MACHINE = 'test_getContents_1_0'
+
+describe('Sharepoint State Resources tests', function () {
   this.timeout(process.env.TIMEOUT || 5000)
 
   before(function () {
@@ -19,26 +22,45 @@ describe('Sharepoint tests', function () {
     }
   })
 
-  let tymlyService, sharepointService
+  let tymlyService, statebox
 
   it('should boot tymly', done => {
     tymly.boot(
       {
         pluginPaths: [
           path.resolve(__dirname, './../lib')
+        ],
+        blueprintPaths: [
+          path.resolve(__dirname, 'fixtures/test-blueprint')
         ]
       },
       (err, services) => {
         expect(err).to.eql(null)
         tymlyService = services.tymly
-        sharepointService = services.sharepoint
+        statebox = services.statebox
         done()
       }
     )
   })
 
-  it('should expect a cookie on the service', () => {
-    expect(sharepointService.getCookie()).to.not.eql(null)
+  it('ensure folder state machine', async () => {
+    const execDesc = await statebox.startExecution(
+      {},
+      ENSURE_FOLDER_STATE_MACHINE,
+      { sendResponse: 'COMPLETE', userId: 'test-user' }
+    )
+
+    console.log('>>>', execDesc)
+  })
+
+  it('get contents state machine', async () => {
+    const execDesc = await statebox.startExecution(
+      {},
+      GET_CONTENTS_STATE_MACHINE,
+      { sendResponse: 'COMPLETE', userId: 'test-user' }
+    )
+
+    console.log('>>>', execDesc)
   })
 
   it('should shut down Tymly', async () => {

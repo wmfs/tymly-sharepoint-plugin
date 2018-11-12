@@ -1,0 +1,20 @@
+{
+  "Comment": "Ensure folder.",
+  "version": "1.0",
+  "StartAt": "EnsureFolder",
+  "States": {
+    "EnsureFolder": {
+      "Type": "Task",
+      "Resource": "module:ensureCloudStorageFolder",
+      "End": true
+    }
+  },
+  "restrictions": [
+    {
+      "roleId": "$authenticated",
+      "allows": [
+        "*"
+      ]
+    }
+  ]
+}
