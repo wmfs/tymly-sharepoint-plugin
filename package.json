@@ -48,5 +48,6 @@
   },
   "publishConfig": {
     "access": "restricted"
-  }
+  },
+  "main": "./lib/index.js"
 }
