@@ -3,7 +3,12 @@
   "version": "0.0.0-semantically-released",
   "description": "A plugin for accessing sharepoint from within Tymly",
   "author": "West Midlands Fire Service",
-  "keywords": [],
+  "keywords": [
+    "tymly",
+    "plugin",
+    "upload",
+    "sharepoint"
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
