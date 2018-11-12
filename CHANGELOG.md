@@ -1,3 +1,22 @@
+## [1.1.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.1.0...v1.1.1) (2018-11-12)
+
+
+### 🐛 Bug Fixes
+
+* package missing main ([8b2a4d2](https://github.com/wmfs/tymly-sharepoint-plugin/commit/8b2a4d2))
+
+
+### 📦 Code Refactoring
+
+* beginning of get contents... path needs some work ([1dbe4f4](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1dbe4f4))
+* some impl on ensure folder path - path needs some work ([8346baa](https://github.com/wmfs/tymly-sharepoint-plugin/commit/8346baa))
+* state resources determine folder path using template ([61193f9](https://github.com/wmfs/tymly-sharepoint-plugin/commit/61193f9))
+
+
+### 💎 Styles
+
+* misspelling ([8da59bb](https://github.com/wmfs/tymly-sharepoint-plugin/commit/8da59bb))
+
 # [1.1.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.0.0...v1.1.0) (2018-11-12)
 
 
