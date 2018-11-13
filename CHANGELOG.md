@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.1.1...v1.2.0) (2018-11-13)
+
+
+### ✨ Features
+
+* pass folder path from get contents state resource ([050bb19](https://github.com/wmfs/tymly-sharepoint-plugin/commit/050bb19))
+
 ## [1.1.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.1.0...v1.1.1) (2018-11-12)
 
 
