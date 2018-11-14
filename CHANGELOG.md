@@ -1,3 +1,15 @@
+## [1.2.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.2.0...v1.2.1) (2018-11-14)
+
+
+### 🐛 Bug Fixes
+
+* bump ([7b6a94a](https://github.com/wmfs/tymly-sharepoint-plugin/commit/7b6a94a))
+
+
+### 🛠 Builds
+
+* change access to public ([13f40f5](https://github.com/wmfs/tymly-sharepoint-plugin/commit/13f40f5))
+
 # [1.2.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.1.1...v1.2.0) (2018-11-13)
 
 
