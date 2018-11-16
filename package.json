@@ -2,6 +2,7 @@
   "name": "@wmfs/tymly-sharepoint-plugin",
   "version": "0.0.0-semantically-released",
   "description": "A plugin for accessing sharepoint from within Tymly",
+  "homepage": "https://github.com/wmfs/tymly-sharepoint-plugin#readme",
   "author": "West Midlands Fire Service",
   "keywords": [
     "tymly",
