@@ -11,8 +11,7 @@ describe('Sharepoint Service tests', function () {
     if (!(
       process.env.SHAREPOINT_URL &&
       process.env.SHAREPOINT_USERNAME &&
-      process.env.SHAREPOINT_PASSWORD &&
-      process.env.SHAREPOINT_DIR_PATH
+      process.env.SHAREPOINT_PASSWORD
     )) {
       console.log('Missing environment variables, skipping tests.')
       this.skip()
