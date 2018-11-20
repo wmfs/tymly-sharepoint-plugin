@@ -45,7 +45,7 @@ describe('Sharepoint State Resources tests', function () {
   it('ensure folder state machine', async () => {
     const execDesc = await statebox.startExecution(
       {
-        uprn: '1234'
+        uprn: '12345'
       },
       ENSURE_FOLDER_STATE_MACHINE,
       { sendResponse: 'COMPLETE', userId: 'test-user' }

@@ -7,7 +7,7 @@
       "Type": "Task",
       "Resource": "module:ensureCloudStorageFolder",
       "ResourceConfig": {
-        "folderPath": "gazetteer/${uprn}/fire_safety"
+        "folderPath": "gazetteer/${uprn}"
       },
       "End": true
     }
