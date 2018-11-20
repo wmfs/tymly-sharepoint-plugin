@@ -1,3 +1,20 @@
+# [1.3.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.2.1...v1.3.0) (2018-11-20)
+
+
+### ✨ Features
+
+* ensure folder creation ([e38dc11](https://github.com/wmfs/tymly-sharepoint-plugin/commit/e38dc11))
+
+
+### 🚨 Tests
+
+* dir path env var not needed ([7adb25e](https://github.com/wmfs/tymly-sharepoint-plugin/commit/7adb25e))
+
+
+### ♻️ Chores
+
+* add homepage to package.json ([c60b4d2](https://github.com/wmfs/tymly-sharepoint-plugin/commit/c60b4d2))
+
 ## [1.2.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.2.0...v1.2.1) (2018-11-14)
 
 
