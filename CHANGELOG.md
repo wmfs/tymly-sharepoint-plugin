@@ -1,3 +1,15 @@
+# [1.4.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.3.0...v1.4.0) (2018-11-28)
+
+
+### ✨ Features
+
+* get cookie in other functions ([5b6ac1d](https://github.com/wmfs/tymly-sharepoint-plugin/commit/5b6ac1d))
+
+
+### 💎 Styles
+
+* standard fix ([bd2c08c](https://github.com/wmfs/tymly-sharepoint-plugin/commit/bd2c08c))
+
 # [1.3.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.2.1...v1.3.0) (2018-11-20)
 
 
