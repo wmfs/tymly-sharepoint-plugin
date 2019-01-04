@@ -36,11 +36,6 @@ describe('Sharepoint Service tests', function () {
     )
   })
 
-  it('should get form digest value', async () => {
-    const digest = await sharepointService.getFormDigest()
-    expect(digest).to.not.eql(null)
-  })
-
   it('should shut down Tymly', async () => {
     await tymlyService.shutdown()
   })

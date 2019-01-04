@@ -7,7 +7,7 @@
       "Type": "Task",
       "Resource": "module:ensureCloudStorageFolder",
       "ResourceConfig": {
-        "folderPath": "gazetteer/${uprn}"
+        "folderPath": "Shared Documents/General/${uprn}"
       },
       "End": true
     }
