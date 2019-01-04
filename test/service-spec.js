@@ -36,6 +36,11 @@ describe('Sharepoint Service tests', function () {
     )
   })
 
+  it('check the service has been set up', () => {
+    expect(sharepointService.sharepoint.url).to.eql(process.env.SHAREPOINT_URL)
+    expect(sharepointService.sharepoint.headers.Cookie.split('=')[0]).to.eql('FedAuth')
+  })
+
   it('should shut down Tymly', async () => {
     await tymlyService.shutdown()
   })
