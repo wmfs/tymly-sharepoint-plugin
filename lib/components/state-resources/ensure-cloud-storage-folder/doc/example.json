@@ -1,3 +1,11 @@
 {
-  "blah": "blah"
+  "EnsureCloudStorageFolder": {
+    "Type": "Task",
+    "Resource": "module:ensureCloudStorageFolder",
+    "ResourceConfig": {
+      "folderPath": "Shared Documents/General/uploads/ridge_uploads/${boardKeys.uprn}"
+    },
+    "ResultPath": "$.sharepointMeta",
+    "Next": "GetSharepointContents"
+  }
 }
