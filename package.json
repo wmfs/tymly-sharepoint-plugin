@@ -19,9 +19,7 @@
     "url": "https://github.com/wmfs/tymly-sharepoint-plugin/issues"
   },
   "dependencies": {
-    "axios": "0.18.0",
     "lodash": "4.17.11",
-    "node-sp-auth": "2.5.6",
     "@wmfs/sharepoint": "1.0.1"
   },
   "devDependencies": {
