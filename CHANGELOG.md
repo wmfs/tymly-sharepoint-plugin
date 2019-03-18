@@ -1,3 +1,49 @@
+# [1.5.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.4.0...v1.5.0) (2019-03-18)
+
+
+### ✨ Features
+
+* If SHAREPOINT_URL === 'DISABLED' then turn off the Sharepoint URL. ([fbec552](https://github.com/wmfs/tymly-sharepoint-plugin/commit/fbec552))
+
+
+### 🐛 Bug Fixes
+
+* Remove console.logging ([e6fc4dd](https://github.com/wmfs/tymly-sharepoint-plugin/commit/e6fc4dd))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([da7658a](https://github.com/wmfs/tymly-sharepoint-plugin/commit/da7658a))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.58.0 to 1.75.0 ([7cbce3f](https://github.com/wmfs/tymly-sharepoint-plugin/commit/7cbce3f))
+* **deps-dev:** update semantic-release requirement ([95069b5](https://github.com/wmfs/tymly-sharepoint-plugin/commit/95069b5))
+
+
+### 📦 Code Refactoring
+
+* use [@wmfs](https://github.com/wmfs)/sharepoint ([1d81479](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1d81479))
+
+
+### 🚨 Tests
+
+* fix the tests ([9e0f044](https://github.com/wmfs/tymly-sharepoint-plugin/commit/9e0f044))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add circle ci config ([c3053a3](https://github.com/wmfs/tymly-sharepoint-plugin/commit/c3053a3))
+* **travis:** update travis config ([1326067](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1326067))
+
+
+### ♻️ Chores
+
+* Add state-resource examples ([39c5b55](https://github.com/wmfs/tymly-sharepoint-plugin/commit/39c5b55))
+* Remove unused deps ([4b67067](https://github.com/wmfs/tymly-sharepoint-plugin/commit/4b67067))
+
+
+### 💎 Styles
+
+* linting ([db61d3a](https://github.com/wmfs/tymly-sharepoint-plugin/commit/db61d3a))
+
 # [1.4.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.3.0...v1.4.0) (2018-11-28)
 
 
