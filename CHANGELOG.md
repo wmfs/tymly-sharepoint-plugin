@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.5.0...v1.5.1) (2019-03-21)
+
+
+### 🐛 Bug Fixes
+
+* Added resource config schemas for state resources. ([984c8b0](https://github.com/wmfs/tymly-sharepoint-plugin/commit/984c8b0))
+
 # [1.5.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.4.0...v1.5.0) (2019-03-18)
 
 
