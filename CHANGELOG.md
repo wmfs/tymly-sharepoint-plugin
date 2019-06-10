@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.5.1...v1.6.0) (2019-06-10)
+
+
+### 🛠 Builds
+
+* **deps:** update [@wmfs](https://github.com/wmfs)/sharepoint requirement from 1.0.1 to 1.1.0 ([71a9d90](https://github.com/wmfs/tymly-sharepoint-plugin/commit/71a9d90))
+
 ## [1.5.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.5.0...v1.5.1) (2019-03-21)
 
 
