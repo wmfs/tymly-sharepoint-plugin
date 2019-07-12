@@ -1,3 +1,27 @@
+# [1.7.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.6.0...v1.7.0) (2019-07-12)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.11 to 4.17.14 ([f340bb3](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f340bb3))
+* **deps-dev:** update [@semantic-release](https://github.com/semantic-release)/git requirement ([403c2ec](https://github.com/wmfs/tymly-sharepoint-plugin/commit/403c2ec))
+* **deps-dev:** update [@wmfs](https://github.com/wmfs)/tymly requirement from 1.75.0 to 1.94.0 ([4fffab8](https://github.com/wmfs/tymly-sharepoint-plugin/commit/4fffab8))
+* **deps-dev:** update codecov requirement from 3.1.0 to 3.5.0 ([37158a9](https://github.com/wmfs/tymly-sharepoint-plugin/commit/37158a9))
+* **deps-dev:** update mocha requirement from 5.2.0 to 6.1.4 ([b38402f](https://github.com/wmfs/tymly-sharepoint-plugin/commit/b38402f))
+* **deps-dev:** update nyc requirement from 13.1.0 to 14.1.1 ([7753322](https://github.com/wmfs/tymly-sharepoint-plugin/commit/7753322))
+* **deps-dev:** update semantic-release requirement ([96becbb](https://github.com/wmfs/tymly-sharepoint-plugin/commit/96becbb))
+
+
+### 📚 Documentation
+
+* add circleci status [skip ci] ([d393fde](https://github.com/wmfs/tymly-sharepoint-plugin/commit/d393fde))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** Update CircleCI config - Travis migration ([cf0ff95](https://github.com/wmfs/tymly-sharepoint-plugin/commit/cf0ff95))
+* **travis:** remove Travis config ([7415d38](https://github.com/wmfs/tymly-sharepoint-plugin/commit/7415d38))
+
 # [1.6.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.5.1...v1.6.0) (2019-06-10)
 
 
