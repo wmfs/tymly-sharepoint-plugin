@@ -1,0 +1,12 @@
+{
+  "name": "sharepoint",
+  "version": "1.7.0",
+  "label": "Sharepoint",
+  "author": "Oli Jukes",
+  "organisation": "West Midlands Fire Service",
+  "description": "Tymly plugin to access Sharepoint services from within Tymly",
+  "categories": [
+    "sharepoint",
+    "microsoft"
+  ]
+}
