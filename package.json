@@ -25,6 +25,7 @@
   "devDependencies": {
     "@semantic-release/changelog": "3.0.6",
     "@semantic-release/git": "7.0.18",
+    "@semantic-release/exec": "3.3.8",
     "chai": "4.2.0",
     "codecov": "3.6.1",
     "conventional-changelog-metahub": "3.0.0",
