@@ -1,3 +1,31 @@
+# [1.8.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.7.0...v1.8.0) (2020-01-07)
+
+
+### 🛠 Builds
+
+* **deps:** update lodash requirement from 4.17.14 to 4.17.15 ([9ecd020](https://github.com/wmfs/tymly-sharepoint-plugin/commit/9ecd020aae15a2c38cd3b4bdcd5df7698635182a))
+* **deps-dev:** add [@semantic-release](https://github.com/semantic-release)/exec ([1e9b8ac](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1e9b8acc0f9d4c49ca3f25bf5bf867f85a7acae2))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.103.3 to 1.104.0 ([c6cdf0e](https://github.com/wmfs/tymly-sharepoint-plugin/commit/c6cdf0ea5c6f9d1fa1915805d26e90a0fdf6fecf))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.104.0 to 1.105.0 ([9d8cc17](https://github.com/wmfs/tymly-sharepoint-plugin/commit/9d8cc17acb6a02d3d9fd010ed20509e1f7abaf96))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.105.0 to 1.106.0 ([c8f0f68](https://github.com/wmfs/tymly-sharepoint-plugin/commit/c8f0f68a067136647de958062b605845511e524f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.106.0 to 1.107.0 ([1e87096](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1e87096dbcf74ed59d85704f0f3ac88552653311))
+* **deps-dev:** bump mocha from 6.2.2 to 7.0.0 ([045107f](https://github.com/wmfs/tymly-sharepoint-plugin/commit/045107f166ccbbdba1a52d2d083d24a8756c3964))
+* **deps-dev:** bump packages ([4734063](https://github.com/wmfs/tymly-sharepoint-plugin/commit/47340631d28ba16e98a714b2c698a9b8e7b967cd))
+* **deps-dev:** update dev dependancies ([84034b6](https://github.com/wmfs/tymly-sharepoint-plugin/commit/84034b6803a4b6aa5aba06eae5f56ba94b4e1a2b))
+* **deps-dev:** update standard requirement from 12.0.1 to 14.3.1 ([6a1d566](https://github.com/wmfs/tymly-sharepoint-plugin/commit/6a1d5665dba4fdf1f51996fe8f703a0054e6c502))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** update config ([303e143](https://github.com/wmfs/tymly-sharepoint-plugin/commit/303e1435af025215bf1dc32863323be49584a5b7))
+
+
+### ♻️ Chores
+
+* add plugin.json ([78c1a28](https://github.com/wmfs/tymly-sharepoint-plugin/commit/78c1a2843a09533545b62e18d36d8734416a91a2))
+* add version_plugin script ([e1495bd](https://github.com/wmfs/tymly-sharepoint-plugin/commit/e1495bd3a1fba69b7317eff4f115dbcafb3bbfef))
+* update .releaserc.json ([1d6ac67](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1d6ac678d2da0c0d23c3560bce9a6a406a7710ae))
+
 # [1.7.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.6.0...v1.7.0) (2019-07-12)
 
 
