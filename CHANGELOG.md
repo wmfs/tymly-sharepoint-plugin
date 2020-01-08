@@ -1,3 +1,10 @@
+# [1.9.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.8.0...v1.9.0) (2020-01-08)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/sharepoint from 1.1.0 to 1.2.0 ([7a8d16b](https://github.com/wmfs/tymly-sharepoint-plugin/commit/7a8d16b1b41673d11c3b2985788895ef6f81ded2))
+
 # [1.8.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.7.0...v1.8.0) (2020-01-07)
 
 
