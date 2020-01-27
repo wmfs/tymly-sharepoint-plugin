@@ -1,3 +1,20 @@
+# [1.10.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.9.0...v1.10.0) (2020-01-27)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/sharepoint from 1.2.0 to 1.3.0 ([ee6ce0a](https://github.com/wmfs/tymly-sharepoint-plugin/commit/ee6ce0ab1b9c28b24c1b269bad5299da1ae2bead))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.107.0 to 1.108.0 ([5889cfa](https://github.com/wmfs/tymly-sharepoint-plugin/commit/5889cfa47f7f1c292d23d5554111e511fd477a79))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.108.0 to 1.109.0 ([f215f8e](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f215f8e174b056dac6a1d7b7ceff2cbad21a880e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.109.0 to 1.110.0 ([e20447b](https://github.com/wmfs/tymly-sharepoint-plugin/commit/e20447b85a1a4556034502075012ee7a03e1ddd9))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.110.0 to 1.112.0 ([3bf99eb](https://github.com/wmfs/tymly-sharepoint-plugin/commit/3bf99eb87d59812fcb17c6c3981775b7f94ee81b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.112.0 to 1.112.1 ([7de3d50](https://github.com/wmfs/tymly-sharepoint-plugin/commit/7de3d50061428b26afee4bf9d5b5fc058093ddf8))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.112.1 to 1.113.0 ([ca8ab02](https://github.com/wmfs/tymly-sharepoint-plugin/commit/ca8ab02222fc0a08665b45a9ce852c509fe03158))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.113.0 to 1.114.0 ([2405f97](https://github.com/wmfs/tymly-sharepoint-plugin/commit/2405f976f7bb2610bf01fc5f4a8dd71d44ce6d78))
+* **deps-dev:** bump codecov from 3.6.1 to 3.6.2 ([ff04eff](https://github.com/wmfs/tymly-sharepoint-plugin/commit/ff04eff0fee53efa828294bd9d49b2680a25629d))
+* **deps-dev:** bump conventional-changelog-metahub from 3.0.0 to 4.0.0 ([bd22998](https://github.com/wmfs/tymly-sharepoint-plugin/commit/bd229987b872fc93eb7ab95d1a68e41af051eb11))
+* **deps-dev:** bump mocha from 7.0.0 to 7.0.1 ([da623c4](https://github.com/wmfs/tymly-sharepoint-plugin/commit/da623c46d94f7fc89ee17dd9602e44f2053ff43b))
+
 # [1.9.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.8.0...v1.9.0) (2020-01-08)
 
 
