@@ -34,7 +34,7 @@
     "nyc": "15.0.0",
     "semantic-release": "17.0.4",
     "standard": "14.3.3",
-    "@wmfs/tymly": "1.128.0"
+    "@wmfs/tymly": "1.129.0"
   },
   "scripts": {
     "lint": "standard",
