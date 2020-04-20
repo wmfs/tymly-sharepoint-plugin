@@ -1,3 +1,55 @@
+## [1.10.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.10.0...v1.10.1) (2020-04-20)
+
+
+### 🐛 Bug Fixes
+
+* **state-resource:** Remove callback parameter from init method ([b983576](https://github.com/wmfs/tymly-sharepoint-plugin/commit/b983576a9b74c140782ef170b80f2871442dd78e))
+
+
+### 🛠 Builds
+
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 3.0.6 to 5.0.0 ([29cfeac](https://github.com/wmfs/tymly-sharepoint-plugin/commit/29cfeac4edb42382aa74f07681d9968e5079667e))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/changelog from 5.0.0 to 5.0.1 ([f619456](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f619456f3a0b191cfb20fc3ab65a6121970667a9))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/exec from 3.3.8 to 5.0.0 ([02ea2f7](https://github.com/wmfs/tymly-sharepoint-plugin/commit/02ea2f71cabc054d64120934f160629ec4053711))
+* **deps-dev:** bump [@semantic-release](https://github.com/semantic-release)/git from 7.0.18 to 9.0.0 ([1efd2b5](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1efd2b5754128fdfcf48630e4db9ec940ab77bf3))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.114.0 to 1.115.0 ([d0ac148](https://github.com/wmfs/tymly-sharepoint-plugin/commit/d0ac148de38f45c73a39af9c6e82ed2bad2f5f95))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.115.0 to 1.116.0 ([dfd2c4d](https://github.com/wmfs/tymly-sharepoint-plugin/commit/dfd2c4da29bf6f2175fadcab8e65efe6332df9f7))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.116.0 to 1.117.0 ([c0e337b](https://github.com/wmfs/tymly-sharepoint-plugin/commit/c0e337b07fcc8a242a7c1509504a42853ee459fc))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.117.0 to 1.118.0 ([33bc00c](https://github.com/wmfs/tymly-sharepoint-plugin/commit/33bc00c6bae4d4c6161a44e48093d6c369ca1a76))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.118.0 to 1.119.0 ([3787556](https://github.com/wmfs/tymly-sharepoint-plugin/commit/378755685454265c76e95a0b37efd63c87b6963f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.119.0 to 1.120.0 ([979dbe1](https://github.com/wmfs/tymly-sharepoint-plugin/commit/979dbe1ffee1159b74f74e8be9b6f0cb88bfa1e8))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.120.0 to 1.123.0 ([495cf7d](https://github.com/wmfs/tymly-sharepoint-plugin/commit/495cf7d441b8f8d58991906ba88691ec7b7a2b4e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.123.0 to 1.124.0 ([555a83b](https://github.com/wmfs/tymly-sharepoint-plugin/commit/555a83b420e3ac5c5d3be0a851a0fe411fc1b44a))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.124.0 to 1.125.0 ([a2a5d35](https://github.com/wmfs/tymly-sharepoint-plugin/commit/a2a5d35a1897be160340eeabccfb42bbad723b89))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.125.0 to 1.126.0 ([051d500](https://github.com/wmfs/tymly-sharepoint-plugin/commit/051d50078cf0aa9f7700ba2b006231f75d9d4ef3))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.126.0 to 1.126.1 ([516a0ad](https://github.com/wmfs/tymly-sharepoint-plugin/commit/516a0adfab128361622e11d60c4dca4118bff57e))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.126.1 to 1.126.2 ([61fb0c6](https://github.com/wmfs/tymly-sharepoint-plugin/commit/61fb0c6c4a643503aa320201c5673fc4d68b51f5))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.126.2 to 1.127.0 ([5a970ca](https://github.com/wmfs/tymly-sharepoint-plugin/commit/5a970ca929dd0f9ee01c6bf763c2382acdaf8a1f))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.127.0 to 1.128.0 ([93edfff](https://github.com/wmfs/tymly-sharepoint-plugin/commit/93edfff5f894936eaa951423f2d74b7c7ce05aa2))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.128.0 to 1.129.0 ([be888d2](https://github.com/wmfs/tymly-sharepoint-plugin/commit/be888d2423ecc7613a8f828fc2aef90b095bb89d))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.129.0 to 1.130.0 ([9a31d94](https://github.com/wmfs/tymly-sharepoint-plugin/commit/9a31d941751773cf4fbc588c8a6ac0d544809d9b))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.130.0 to 1.131.0 ([5e6d9b8](https://github.com/wmfs/tymly-sharepoint-plugin/commit/5e6d9b8bbef5c7c488ff826a1cde3dbad9f25033))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.131.0 to 1.135.0 ([15adbb3](https://github.com/wmfs/tymly-sharepoint-plugin/commit/15adbb3bb8ef3a4826f5863dc3605543fcc5a709))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.135.0 to 1.135.1 ([eaf1f9c](https://github.com/wmfs/tymly-sharepoint-plugin/commit/eaf1f9c06728b8dba091bc4e3d8c274503a8e846))
+* **deps-dev:** bump codecov from 3.6.2 to 3.6.3 ([a4d7dee](https://github.com/wmfs/tymly-sharepoint-plugin/commit/a4d7deef1d9f58787237dc256663b40b12b33dda))
+* **deps-dev:** bump codecov from 3.6.3 to 3.6.4 ([9beb434](https://github.com/wmfs/tymly-sharepoint-plugin/commit/9beb434bb3032a7c3b4a5e692d3b9ffdaff7e131))
+* **deps-dev:** bump codecov from 3.6.4 to 3.6.5 ([0a1e2ec](https://github.com/wmfs/tymly-sharepoint-plugin/commit/0a1e2ec85ee23832258d96f3c0986b2841fed9e4))
+* **deps-dev:** bump conventional-changelog-metahub from 4.0.0 to 4.0.1 ([8c70610](https://github.com/wmfs/tymly-sharepoint-plugin/commit/8c70610de4f3c42927d7eb4381a4298ff349ac7f))
+* **deps-dev:** bump cz-conventional-changelog from 3.0.2 to 3.1.0 ([586eb24](https://github.com/wmfs/tymly-sharepoint-plugin/commit/586eb24d911ebb11b8ad342a94e4f0684545e408))
+* **deps-dev:** bump mocha from 7.0.1 to 7.1.0 ([8168d61](https://github.com/wmfs/tymly-sharepoint-plugin/commit/8168d612f3536ff8b2169d75d5f0422abe295b77))
+* **deps-dev:** bump mocha from 7.1.0 to 7.1.1 ([0dfa317](https://github.com/wmfs/tymly-sharepoint-plugin/commit/0dfa317666e2d4a0edc7001a8deeb37cee34c2eb))
+* **deps-dev:** bump nyc from 15.0.0 to 15.0.1 ([2c1ba8f](https://github.com/wmfs/tymly-sharepoint-plugin/commit/2c1ba8f936be57c0d375c495caf44056e305a5b0))
+* **deps-dev:** bump semantic-release from 15.14.0 to 17.0.4 ([e688b58](https://github.com/wmfs/tymly-sharepoint-plugin/commit/e688b58232a26746429624d4b4dabaa954a535a6))
+* **deps-dev:** bump semantic-release from 17.0.4 to 17.0.5 ([f931040](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f9310408dc7575877ef252d8eb3e890126a3c210))
+* **deps-dev:** bump semantic-release from 17.0.5 to 17.0.6 ([5283d45](https://github.com/wmfs/tymly-sharepoint-plugin/commit/5283d4516f5fec1f37d44367d229e6d7a0d0719c))
+* **deps-dev:** bump standard from 14.3.1 to 14.3.2 ([4eaac6e](https://github.com/wmfs/tymly-sharepoint-plugin/commit/4eaac6e49bd5508ecdd9cd9b0aca4d8fbb6dd91e))
+* **deps-dev:** bump standard from 14.3.2 to 14.3.3 ([424455d](https://github.com/wmfs/tymly-sharepoint-plugin/commit/424455d4c157e9e7bee2434fc4d4ce491b5243f0))
+
+
+### ⚙️ Continuous Integrations
+
+* **circle:** add context env var config to config.yml ([4c435af](https://github.com/wmfs/tymly-sharepoint-plugin/commit/4c435af92cbb5f5f0b580a9ebef9b90930b7fb1c))
+
 # [1.10.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.9.0...v1.10.0) (2020-01-27)
 
 
