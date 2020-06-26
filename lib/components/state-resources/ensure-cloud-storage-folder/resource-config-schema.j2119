@@ -1,2 +1,0 @@
-This document specifies a JSON object called a "CloudFolder".
-A CloudFolder MUST have a string field named "folderPath".
