@@ -6,7 +6,7 @@ const path = require('path')
 const mockSharepoint = require('./mock-sharepoint-server')
 
 describe('Sharepoint Service tests', function () {
-  //this.timeout(process.env.TIMEOUT || 5000)
+  this.timeout(process.env.TIMEOUT || 5000)
 
   let mockServer = null
   let tymlyService, sharepointService
