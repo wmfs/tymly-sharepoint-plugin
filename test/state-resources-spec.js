@@ -47,18 +47,20 @@ describe('Sharepoint State Resources tests', function () {
     )
 
     expect(execDesc.status).to.eql('SUCCEEDED')
+    expect(mockServer.folder).to.equal('/mock/Shared Documents/General/12345')
   })
 
   it('get contents state machine', async () => {
     const execDesc = await statebox.startExecution(
       {
-        uprn: '1234'
+        uprn: '54321'
       },
       GET_CONTENTS_STATE_MACHINE,
       { sendResponse: 'COMPLETE', userId: 'test-user' }
     )
 
     expect(execDesc.status).to.eql('SUCCEEDED')
+    expect(mockServer.folder).to.equal('/mock/Shared Documents/General/54321')
   })
 
   after('shut down Tymly', async () => {
