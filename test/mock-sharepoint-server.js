@@ -4,7 +4,7 @@ const mockServer = {
   folder: null
 }
 
-async function mockSharepoint() {
+async function mockSharepoint () {
   const app = fastify()
 
   app.get('/', {}, auth)
@@ -23,45 +23,51 @@ async function mockSharepoint() {
 }
 
 const mockAuthString = 'NTLM TlRMTVNTUAACAAAADAAMADAAAAABAoEAASNFZ4mrze8AAAAAAAAAAGIAYgA8AAAARABPAE0AQQBJAE4AAgAMAEQATwBNAEEASQBOAAEADABTAEUAUgBWAEUAUgAEABQAZABvAG0AYQBpAG4ALgBjAG8AbQADACIAcwBlAHIAdgBlAHIALgBkAG8AbQBhAGkAbgAuAGMAbwBtAAAAAAA='
-function auth(request, reply) {
+function auth (request, reply) {
   reply.header('www-authenticate', mockAuthString)
   reply.status(401)
   reply.send()
 } // mockAuth
 
-function site(request, reply) {
-  reply.send({ d: {
-      Id: "Mock",
-      Iitle: "This is a Mock",
-      Description: "For testing",
-      Created: "By Jez",
-      ServerRelativeUrl: "/mock/",
-      LastItemUserModifiedDate: "Never"
-    }})
+function site (request, reply) {
+  reply.send({
+    d: {
+      Id: 'Mock',
+      Iitle: 'This is a Mock',
+      Description: 'For testing',
+      Created: 'By Jez',
+      ServerRelativeUrl: '/mock/',
+      LastItemUserModifiedDate: 'Never'
+    }
+  })
 } // site
 
-function contextInfo(request, reply) {
-  reply.send({ d: {
-    GetContextWebInformation: {
-      FormDigestValue: 'trousers'
+function contextInfo (request, reply) {
+  reply.send({
+    d: {
+      GetContextWebInformation: {
+        FormDigestValue: 'trousers'
+      }
     }
-  }})
+  })
 } // contextInfo
 
-function folders(request, reply) {
+function folders (request, reply) {
   mockServer.folder = request.body.ServerRelativeUrl
   reply.status(200).send()
 } // folders
 
-function folderContents(request, reply) {
+function folderContents (request, reply) {
   const desired = request.params['*']
   const type = desired.split('/').slice(-1)[0]
 
   mockServer.folder = desired.replace('GetFolderByServerRelativeUrl(\'', '').replace(`')/${type}`, '')
 
-  reply.send({ d: {
-    results: []
-  }})
+  reply.send({
+    d: {
+      results: []
+    }
+  })
 } // folderContents
 
 module.exports = mockSharepoint
