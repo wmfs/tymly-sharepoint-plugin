@@ -47,6 +47,8 @@ describe('Sharepoint State Resources tests', function () {
     )
 
     expect(execDesc.status).to.eql('SUCCEEDED')
+    expect(execDesc.ctx.folderPath).to.eql('Shared Documents/General/12345')
+    expect(execDesc.ctx.url).to.eql('http://localhost:5000')
     expect(mockServer.folder).to.equal('/mock/Shared Documents/General/12345')
   })
 
