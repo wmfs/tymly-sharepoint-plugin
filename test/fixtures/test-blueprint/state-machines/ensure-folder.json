@@ -7,7 +7,11 @@
       "Type": "Task",
       "Resource": "module:ensureCloudStorageFolder",
       "ResourceConfig": {
-        "folderPath": "Shared Documents/General/${uprn}"
+        "provider": "sharepoint",
+        "remoteFolderRoot": "Shared Documents/General/"
+      },
+      "Parameters": {
+        "remoteFolderPath.$": "$.uprn"
       },
       "End": true
     }
