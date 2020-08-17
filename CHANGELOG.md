@@ -1,3 +1,18 @@
+# [1.14.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.13.0...v1.14.0) (2020-08-17)
+
+
+### 🛠 Builds
+
+* **deps:** bump lodash from 4.17.19 to 4.17.20 ([0fb1aa4](https://github.com/wmfs/tymly-sharepoint-plugin/commit/0fb1aa45285bf2ef7283e478396357be917ce475))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.152.0 to 1.153.0 ([f115d6e](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f115d6ef2f84a84c4a786643c44e1122c8c1ea09))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.153.0 to 1.154.0 ([753bacf](https://github.com/wmfs/tymly-sharepoint-plugin/commit/753bacf7e56f821b1c03f9fb9fac5e764718dd0c))
+* **deps-dev:** bump codecov from 3.7.0 to 3.7.1 ([254ae50](https://github.com/wmfs/tymly-sharepoint-plugin/commit/254ae502f91ef75b7b5ecebd17edcc8d0580d454))
+* **deps-dev:** bump codecov from 3.7.1 to 3.7.2 ([e618acf](https://github.com/wmfs/tymly-sharepoint-plugin/commit/e618acfa0bdf5c521afbd74acefa7ad74dc5ea67))
+* **deps-dev:** bump fastify from 3.0.3 to 3.1.1 ([abc95a3](https://github.com/wmfs/tymly-sharepoint-plugin/commit/abc95a3e786097c818e7881d29f053cecca336cf))
+* **deps-dev:** bump fastify from 3.1.1 to 3.2.0 ([ff69eb1](https://github.com/wmfs/tymly-sharepoint-plugin/commit/ff69eb12e13556de6d4224806ed1f8673e81118b))
+* **deps-dev:** bump mocha from 8.0.1 to 8.1.0 ([1cc0a45](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1cc0a459f0b896084f03538e3ca56d367486b8e1))
+* **deps-dev:** bump mocha from 8.1.0 to 8.1.1 ([c1d4c30](https://github.com/wmfs/tymly-sharepoint-plugin/commit/c1d4c305621aea11a7ba71a139e9b71228951225))
+
 # [1.13.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.12.0...v1.13.0) (2020-07-16)
 
 
