@@ -1,3 +1,13 @@
+# [1.15.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.14.0...v1.15.0) (2020-08-25)
+
+
+### 🛠 Builds
+
+* **deps:** bump [@wmfs](https://github.com/wmfs)/sharepoint from 1.5.0 to 1.6.0 ([40e4b99](https://github.com/wmfs/tymly-sharepoint-plugin/commit/40e4b99afc0fbcfc0228069855e5c4a71fec92ed))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.154.0 to 1.156.0 ([b4d30ba](https://github.com/wmfs/tymly-sharepoint-plugin/commit/b4d30ba5d90f2d83a541d45207f3c3aa5e1fbe30))
+* **deps-dev:** bump [@wmfs](https://github.com/wmfs)/tymly from 1.156.0 to 1.157.0 ([0014bc1](https://github.com/wmfs/tymly-sharepoint-plugin/commit/0014bc10b3534d880a3daa7f236af6d105eed7f0))
+* **deps-dev:** bump fastify from 3.2.0 to 3.2.1 ([8f4e56f](https://github.com/wmfs/tymly-sharepoint-plugin/commit/8f4e56fdd4d40e1cf0ee90f791f6eece20a03046))
+
 # [1.14.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.13.0...v1.14.0) (2020-08-17)
 
 
