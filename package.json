@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "lodash": "4.17.21",
-    "@wmfs/sharepoint": "1.8.0"
+    "@wmfs/sharepoint": "1.9.0"
   },
   "devDependencies": {
     "@semantic-release/changelog": "5.0.1",
