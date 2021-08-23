@@ -35,7 +35,7 @@
     "fastify": "3.20.2",
     "mocha": "9.1.0",
     "nyc": "15.1.0",
-    "semantic-release": "17.4.5",
+    "semantic-release": "17.4.6",
     "standard": "16.0.3",
     "@wmfs/tymly": "1.212.0"
   },
