@@ -1,3 +1,10 @@
+# [1.21.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.20.0...v1.21.0) (2022-01-25)
+
+
+### 🛠 Builds
+
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/sharepoint to v1.12.0 ([b91eabe](https://github.com/wmfs/tymly-sharepoint-plugin/commit/b91eabeeec806fc7b14de4b9a62c845fd63c6866))
+
 # [1.20.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.19.0...v1.20.0) (2022-01-25)
 
 
