@@ -27,7 +27,7 @@
     "@semantic-release/exec": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@wmfs/tymly": "1.144.0",
-    "@wmfs/tymly-cloudstorage-plugin": "1.5.0",
+    "@wmfs/tymly-cloudstorage-plugin": "1.6.0",
     "chai": "4.3.6",
     "codecov": "3.8.3",
     "conventional-changelog-metahub": "4.0.1",
