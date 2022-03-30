@@ -1,3 +1,26 @@
+# [1.22.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.21.0...v1.22.0) (2022-03-30)
+
+
+### ✨ Features
+
+* ability to copy file from local to sharepoint (uploading) ([7dd028f](https://github.com/wmfs/tymly-sharepoint-plugin/commit/7dd028fdaa75cbdd11961ffcd273b59f5a6d1a0a))
+* support deleting files ([51455f8](https://github.com/wmfs/tymly-sharepoint-plugin/commit/51455f8c70fadd0da0d073c4d249cb2b1088d2ff))
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.234.0 ([88d33eb](https://github.com/wmfs/tymly-sharepoint-plugin/commit/88d33eb18b3a47f8b9d223387680cfe18c299ff5))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.0 ([cb22776](https://github.com/wmfs/tymly-sharepoint-plugin/commit/cb227768d4074cf1edef1f99b8688f1a0a8c9170))
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.235.1 ([6bb1208](https://github.com/wmfs/tymly-sharepoint-plugin/commit/6bb12083a551f76696f901f2e6ee691046802db5))
+* **deps-dev:** update dependency chai to v4.3.5 ([f012244](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f01224453f17794f4875bafd43f0ba609e88782a))
+* **deps-dev:** update dependency chai to v4.3.6 ([a3a0789](https://github.com/wmfs/tymly-sharepoint-plugin/commit/a3a0789edfa9d5ea6e88409b666be361aca5d77c))
+* **deps-dev:** update dependency fastify to v3.27.1 ([211c394](https://github.com/wmfs/tymly-sharepoint-plugin/commit/211c394b18ee320ee4b8d7c53732569977374f4b))
+* **deps-dev:** update dependency fastify to v3.27.2 ([546511c](https://github.com/wmfs/tymly-sharepoint-plugin/commit/546511c1cd43c876f023438b9493e633654e0e2b))
+* **deps-dev:** update dependency fastify to v3.27.3 ([57260fe](https://github.com/wmfs/tymly-sharepoint-plugin/commit/57260fe345c919911633986c73a23a4f1d9ff07b))
+* **deps-dev:** update dependency fastify to v3.27.4 ([9721462](https://github.com/wmfs/tymly-sharepoint-plugin/commit/9721462a04cc5c0bb8f983580bad19a840a58cb1))
+* **deps-dev:** update dependency mocha to v9.2.1 ([3c45093](https://github.com/wmfs/tymly-sharepoint-plugin/commit/3c4509362d631a210e93e653d261a6bdf20f0d4b))
+* **deps-dev:** update dependency mocha to v9.2.2 ([0f4cf39](https://github.com/wmfs/tymly-sharepoint-plugin/commit/0f4cf3986378b0d62c42e5b14ee57ab5b944688b))
+
 # [1.21.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.20.0...v1.21.0) (2022-01-25)
 
 
