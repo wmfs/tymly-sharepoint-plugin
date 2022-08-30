@@ -1,3 +1,18 @@
+# [1.23.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.22.1...v1.23.0) (2022-08-30)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency fastify to v3.29.2 ([e3181b6](https://github.com/wmfs/tymly-sharepoint-plugin/commit/e3181b670fead297cf6ac8f25bbb3821e6585803))
+* **deps-dev:** update dependency semantic-release to v19.0.4 ([12f0c95](https://github.com/wmfs/tymly-sharepoint-plugin/commit/12f0c9563b65b53305457bf065f669aada354189))
+* **deps-dev:** update dependency semantic-release to v19.0.5 ([cb477d9](https://github.com/wmfs/tymly-sharepoint-plugin/commit/cb477d9c006d5cea1093fbef42f1112511c3f40e))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/sharepoint to v1.12.2 ([557fa5c](https://github.com/wmfs/tymly-sharepoint-plugin/commit/557fa5c4985d9ccb8edda12b64d3f286291af7d3))
+
+
+### 🚨 Tests
+
+* decode folder to check the correct formatted folder path ([74fca7b](https://github.com/wmfs/tymly-sharepoint-plugin/commit/74fca7bbc362a3f187a3824802fcaf8fff36541c))
+
 ## [1.22.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.22.0...v1.22.1) (2022-08-16)
 
 
