@@ -53,7 +53,7 @@ function contextInfo (request, reply) {
 } // contextInfo
 
 function folders (request, reply) {
-  mockServer.folder = request.body.ServerRelativeUrl
+  mockServer.folder = decodeURIComponent(request.body.ServerRelativeUrl)
   reply.status(200).send()
 } // folders
 
@@ -61,7 +61,7 @@ function folderContents (request, reply) {
   const desired = request.params['*']
   const type = desired.split('/').slice(-1)[0]
 
-  mockServer.folder = desired.replace('GetFolderByServerRelativeUrl(\'', '').replace(`')/${type}`, '')
+  mockServer.folder = decodeURIComponent(desired).replace('GetFolderByServerRelativeUrl(\'', '').replace(`')/${type}`, '')
 
   reply.send({
     d: {
