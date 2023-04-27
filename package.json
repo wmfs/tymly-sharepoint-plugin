@@ -23,7 +23,7 @@
     "@wmfs/sharepoint": "1.12.2"
   },
   "devDependencies": {
-    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/changelog": "6.0.3",
     "@semantic-release/exec": "6.0.3",
     "@semantic-release/git": "10.0.1",
     "@wmfs/tymly": "1.144.0",
@@ -35,7 +35,7 @@
     "fastify": "3.29.3",
     "mocha": "10.1.0",
     "nyc": "15.1.0",
-    "semantic-release": "19.0.5",
+    "semantic-release": "21.0.1",
     "standard": "17.0.0"
   },
   "scripts": {
