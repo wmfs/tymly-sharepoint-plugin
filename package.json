@@ -36,12 +36,11 @@
     "mocha": "10.1.0",
     "nyc": "15.1.0",
     "semantic-release": "19.0.5",
-    "standard": "17.0.0",
-    "@wmfs/tymly": "1.242.0"
+    "standard": "17.0.0"
   },
   "scripts": {
     "lint": "standard",
-    "test": "nyc mocha",
+    "test": "NODE_OPTIONS=--openssl-legacy-provider nyc mocha",
     "coverage": "nyc report --reporter=text-lcov > coverage.lcov && codecov",
     "semantic-release": "semantic-release"
   },
