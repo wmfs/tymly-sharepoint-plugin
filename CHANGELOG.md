@@ -1,3 +1,21 @@
+# [1.25.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.24.0...v1.25.0) (2023-07-26)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.258.0 ([55891f3](https://github.com/wmfs/tymly-sharepoint-plugin/commit/55891f3ec8420973a5a87a4884d05e4bcbd2a5bb))
+* **deps-dev:** update dependency fastify to v4.18.0 ([d0bc217](https://github.com/wmfs/tymly-sharepoint-plugin/commit/d0bc217f059975e5fc7bb83b7032e6e0720fda82))
+* **deps-dev:** update dependency fastify to v4.19.0 ([962595b](https://github.com/wmfs/tymly-sharepoint-plugin/commit/962595bb2e20cd4e51ab2d2d795196babcd60c51))
+* **deps-dev:** update dependency fastify to v4.19.1 ([f740867](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f7408672377666f8e93b70fb7b8826f962cb922f))
+* **deps-dev:** update dependency fastify to v4.19.2 ([ece121a](https://github.com/wmfs/tymly-sharepoint-plugin/commit/ece121ad1abd7fe57728b270b77bcb5351bc492b))
+* **deps-dev:** update dependency fastify to v4.20.0 ([372f0cf](https://github.com/wmfs/tymly-sharepoint-plugin/commit/372f0cffc5cfb891efd56b329bb1cc0caec663fc))
+* **deps-dev:** update dependency semantic-release to v21.0.3 ([b1f968a](https://github.com/wmfs/tymly-sharepoint-plugin/commit/b1f968a929396b3a94535d60617fbca348bf5136))
+* **deps-dev:** update dependency semantic-release to v21.0.5 ([8008769](https://github.com/wmfs/tymly-sharepoint-plugin/commit/800876946baf1ee6990a8cc1548026f1a426f947))
+* **deps-dev:** update dependency semantic-release to v21.0.6 ([745d13f](https://github.com/wmfs/tymly-sharepoint-plugin/commit/745d13ff83059cda55da32ad68370a73494dd7fe))
+* **deps-dev:** update dependency semantic-release to v21.0.7 ([49857f1](https://github.com/wmfs/tymly-sharepoint-plugin/commit/49857f16d68a81058a66a64439b805ce78165e42))
+* **deps-dev:** update dependency standard to v17.1.0 ([1c16d1b](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1c16d1b7429cfba4ed1b2be2f01077ec35122cb6))
+* **deps:** update dependency [@wmfs](https://github.com/wmfs)/sharepoint to v1.19.0 ([d795730](https://github.com/wmfs/tymly-sharepoint-plugin/commit/d795730a3da4a60817d52099112beda958505e13))
+
 # [1.24.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.23.0...v1.24.0) (2023-05-02)
 
 
