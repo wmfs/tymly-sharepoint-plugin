@@ -32,7 +32,7 @@
     "codecov": "3.8.3",
     "conventional-changelog-metahub": "4.0.1",
     "cz-conventional-changelog": "3.3.0",
-    "fastify": "4.21.0",
+    "fastify": "4.22.0",
     "mocha": "10.2.0",
     "nyc": "15.1.0",
     "semantic-release": "21.1.1",
