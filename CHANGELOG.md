@@ -1,3 +1,24 @@
+# [1.26.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.25.0...v1.26.0) (2023-09-19)
+
+
+### 🛠 Builds
+
+* **deps-dev:** update dependency [@wmfs](https://github.com/wmfs)/tymly to v1.261.0 ([1587ca7](https://github.com/wmfs/tymly-sharepoint-plugin/commit/1587ca7ffdf6a63e5c2db846d9e866e64cf73731))
+* **deps-dev:** update dependency chai to v4.3.8 ([ab0bd5e](https://github.com/wmfs/tymly-sharepoint-plugin/commit/ab0bd5eeef92790b84feaaf2cf293edb8f49678e))
+* **deps-dev:** update dependency fastify to v4.21.0 ([8815950](https://github.com/wmfs/tymly-sharepoint-plugin/commit/88159504f2aaf3e19922982419a44af3c2a6030d))
+* **deps-dev:** update dependency fastify to v4.22.0 ([045a040](https://github.com/wmfs/tymly-sharepoint-plugin/commit/045a0407d2c29b602b991fd0283310d41fa0a129))
+* **deps-dev:** update dependency fastify to v4.22.1 ([87ccdda](https://github.com/wmfs/tymly-sharepoint-plugin/commit/87ccdda94729a5baf8b5425bedef97f162d9337b))
+* **deps-dev:** update dependency fastify to v4.22.2 ([cd9ca30](https://github.com/wmfs/tymly-sharepoint-plugin/commit/cd9ca3007fe8c0404f702ffb0d19b55206395702))
+* **deps-dev:** update dependency fastify to v4.23.0 ([f70a0d2](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f70a0d266fcf38f95248527f4066a9c2711ad038))
+* **deps-dev:** update dependency fastify to v4.23.1 ([a0ec56f](https://github.com/wmfs/tymly-sharepoint-plugin/commit/a0ec56fb99478edd79ae335ee36d6890a5f4a1a6))
+* **deps-dev:** update dependency fastify to v4.23.2 ([d14df73](https://github.com/wmfs/tymly-sharepoint-plugin/commit/d14df738666f30f9ecb1ba020fa484aff637eb09))
+* **deps-dev:** update dependency semantic-release to v21.0.9 ([ba4932b](https://github.com/wmfs/tymly-sharepoint-plugin/commit/ba4932b1fb0da77412cc13b2e6120a5d0791274d))
+* **deps-dev:** update dependency semantic-release to v21.1.0 ([35e2fdc](https://github.com/wmfs/tymly-sharepoint-plugin/commit/35e2fdcaa575d01e1d6ff2576a19ace179e8ea7a))
+* **deps-dev:** update dependency semantic-release to v21.1.1 ([388bdf6](https://github.com/wmfs/tymly-sharepoint-plugin/commit/388bdf6e8ebc3ceffbe7f753d6b5be5f34450d1f))
+* **deps-dev:** update dependency semantic-release to v21.1.2 ([a6867de](https://github.com/wmfs/tymly-sharepoint-plugin/commit/a6867ded603301ea4bfc375980628459753981fd))
+* **deps-dev:** update dependency semantic-release to v22 ([f42fcdf](https://github.com/wmfs/tymly-sharepoint-plugin/commit/f42fcdf5df6dc8c8e5e8d2a472ec606aaf18c625))
+* **deps:** revert semantic-release ([4ebb298](https://github.com/wmfs/tymly-sharepoint-plugin/commit/4ebb298d094112c4af05e040b3cd12de97b94ef7))
+
 # [1.25.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.24.0...v1.25.0) (2023-07-26)
 
 
