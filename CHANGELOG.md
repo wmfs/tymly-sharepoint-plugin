@@ -1,3 +1,10 @@
+# [1.27.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.26.0...v1.27.0) (2024-04-23)
+
+
+### Features
+
+* [sc-23880] Sharepoint authentication ([#516](https://github.com/wmfs/tymly-sharepoint-plugin/issues/516)) ([b5b680a](https://github.com/wmfs/tymly-sharepoint-plugin/commit/b5b680aef43418961bbca7ced1a15ebd39580f5f))
+
 # [1.26.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.25.0...v1.26.0) (2023-09-19)
 
 
