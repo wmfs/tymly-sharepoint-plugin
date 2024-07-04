@@ -1,3 +1,10 @@
+# [1.29.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.28.0...v1.29.0) (2024-07-04)
+
+
+### Features
+
+* **(pin 262) crr dd:** [sc-25086] Remove manage in SharePoint unless a file uploaded ([#527](https://github.com/wmfs/tymly-sharepoint-plugin/issues/527)) ([198f459](https://github.com/wmfs/tymly-sharepoint-plugin/commit/198f459ec2c7a17b0dd860fac4364e20415c773c))
+
 # [1.28.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.27.0...v1.28.0) (2024-04-23)
 
 # [1.27.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.26.0...v1.27.0) (2024-04-23)
