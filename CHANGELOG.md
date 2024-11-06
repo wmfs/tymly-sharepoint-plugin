@@ -1,3 +1,5 @@
+# [1.31.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.30.0...v1.31.0) (2024-11-06)
+
 # [1.30.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.29.0...v1.30.0) (2024-11-04)
 
 # [1.29.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.28.0...v1.29.0) (2024-07-04)
