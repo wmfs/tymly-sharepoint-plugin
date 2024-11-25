@@ -1,3 +1,10 @@
+## [1.34.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.34.0...v1.34.1) (2024-11-25)
+
+
+### Bug Fixes
+
+* [sc-28863] Upload chunk size as environment variable ([#562](https://github.com/wmfs/tymly-sharepoint-plugin/issues/562)) ([e6c7b05](https://github.com/wmfs/tymly-sharepoint-plugin/commit/e6c7b05601994d4fd1cbda2995bfd63067b17123))
+
 # [1.34.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.33.0...v1.34.0) (2024-11-20)
 
 # [1.33.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.32.0...v1.33.0) (2024-11-13)
