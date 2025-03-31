@@ -1,3 +1,10 @@
+## [1.52.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.51.0...v1.52.0) (2025-03-31)
+
+### Build system dependencies :hammer:
+
+* **deps-dev:** update dependency fastify to v5.2.2 ([#604](https://github.com/wmfs/tymly-sharepoint-plugin/issues/604)) ([508952a](https://github.com/wmfs/tymly-sharepoint-plugin/commit/508952a37fd478b0bde1e8f57c1a88677dc923e4))
+* **deps:** update dependency @wmfs/sharepoint to v1.48.0 ([#605](https://github.com/wmfs/tymly-sharepoint-plugin/issues/605)) ([bd03c53](https://github.com/wmfs/tymly-sharepoint-plugin/commit/bd03c5341c49f4c85549b5fe58da78bf3b4c9245))
+
 ## [1.51.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.50.0...v1.51.0) (2025-03-21)
 
 ### Build system dependencies :hammer:
