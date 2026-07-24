@@ -26,7 +26,7 @@
     "@semantic-release/changelog": "7.0.0",
     "@semantic-release/release-notes-generator": "14.1.1",
     "@semantic-release/exec": "7.1.0",
-    "@semantic-release/git": "11.0.0",
+    "@semantic-release/git": "11.0.1",
     "@wmfs/tymly": "1.317.0",
     "@wmfs/tymly-cloudstorage-plugin": "1.9.0",
     "chai": "4.5.0",
