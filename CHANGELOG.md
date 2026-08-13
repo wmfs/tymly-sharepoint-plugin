@@ -1,3 +1,5 @@
+## [1.67.1](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.67.0...v1.67.1) (2026-08-13)
+
 ## [1.67.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.66.0...v1.67.0) (2026-04-10)
 
 ### Build system dependencies :hammer:
