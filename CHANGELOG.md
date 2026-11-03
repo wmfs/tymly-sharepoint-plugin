@@ -1,3 +1,9 @@
+## [1.70.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.69.0...v1.70.0) (2026-11-03)
+
+### Build system dependencies :hammer:
+
+* **deps:** update [@wmfs](https://github.com/wmfs) packages ([#726](https://github.com/wmfs/tymly-sharepoint-plugin/issues/726)) ([fcb79b9](https://github.com/wmfs/tymly-sharepoint-plugin/commit/fcb79b98f03adbf0dd206d30aa22917d766b3145))
+
 ## [1.69.0](https://github.com/wmfs/tymly-sharepoint-plugin/compare/v1.68.0...v1.69.0) (2026-11-02)
 
 ### Build system dependencies :hammer:
